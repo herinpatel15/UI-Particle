@@ -1,0 +1,41 @@
+{
+  "name": "ui-particle",
+  "version": "1.0.0",
+  "description": "Components cli for REACTJS and NEXTJS :)",
+  "main": "dist/index.js",
+  "bin": {
+    "particle": "dist/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "dev": "node dist/index.js init"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "components",
+    "cli",
+    "template",
+    "reacjs",
+    "nextjs",
+    "particle",
+    "ui-particle"
+  ],
+  "author": "Herin Patel",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "type-fest": "^4.26.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.5.4",
+    "@ui-particle/eslint-config": "*",
+    "@ui-particle/typescript-config": "*"
+  }
+}

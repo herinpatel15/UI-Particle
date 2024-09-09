@@ -1,0 +1,6 @@
+{
+    "lerna": "8.1.8",
+    "packages": ["packages/*"],
+    "version": "independent",
+    "npmClient": "npm"
+}
