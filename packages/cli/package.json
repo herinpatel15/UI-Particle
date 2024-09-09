@@ -2,7 +2,7 @@
   "name": "paramanu",
   "version": "0.0.0",
   "description": "Components cli for REACTJS and NEXTJS :)",
-  "main": "dist/index.js",
+  "exports": "./dist/index.js",
   "bin": "dist/index.js",
   "publishConfig": {
     "access": "public"
