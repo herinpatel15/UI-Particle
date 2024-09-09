@@ -1,6 +1,6 @@
 {
-  "name": "ui-particle",
-  "version": "1.0.2",
+  "name": "paramanu",
+  "version": "0.0.0",
   "description": "Components cli for REACTJS and NEXTJS :)",
   "main": "dist/index.js",
   "bin": "dist/index.js",
@@ -33,8 +33,8 @@
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^22.5.4",
-    "@ui-particle/eslint-config": "*",
-    "@ui-particle/typescript-config": "*"
+    "@paramanu/eslint-config": "*",
+    "@paramanu/typescript-config": "*"
   },
-  "gitHead": "1035f8f0585ab5d7b4803c6a6bf88984ad0a6d4f"
+  "gitHead": "ea0a5235cc3b74bd8505fc9d1a8e142ae1d21c78"
 }

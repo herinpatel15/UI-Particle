@@ -1,6 +1,6 @@
 {
-  "name": "@ui-particle/ui",
-  "version": "0.0.2",
+  "name": "@paramanu/ui",
+  "version": "0.0.0",
   "exports": {
     "./button": "./src/button.tsx",
     "./card": "./src/card.tsx",
@@ -19,13 +19,14 @@
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.61",
     "@types/react-dom": "^18.2.19",
-    "@ui-particle/eslint-config": "*",
-    "@ui-particle/typescript-config": "*",
+    "@paramanu/eslint-config": "*",
+    "@paramanu/typescript-config": "*",
     "eslint": "^8.57.0",
     "typescript": "^5.3.3"
   },
   "dependencies": {
     "react": "^18.2.0"
   },
-  "gitHead": "1035f8f0585ab5d7b4803c6a6bf88984ad0a6d4f"
+  "license": "ISC",
+  "gitHead": "ea0a5235cc3b74bd8505fc9d1a8e142ae1d21c78"
 }

@@ -17,6 +17,7 @@ async function chalo() {
     program.addCommand(init)
 
     program.parse(process.argv)
+    
 }
 
 chalo()
