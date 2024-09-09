@@ -1,6 +1,6 @@
 {
   "name": "ui-particle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Components cli for REACTJS and NEXTJS :)",
   "main": "dist/index.js",
   "bin": {
