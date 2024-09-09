@@ -26,5 +26,6 @@
   },
   "dependencies": {
     "react": "^18.2.0"
-  }
+  },
+  "gitHead": "1035f8f0585ab5d7b4803c6a6bf88984ad0a6d4f"
 }

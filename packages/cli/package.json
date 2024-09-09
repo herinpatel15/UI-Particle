@@ -3,9 +3,7 @@
   "version": "1.0.1",
   "description": "Components cli for REACTJS and NEXTJS :)",
   "main": "dist/index.js",
-  "bin": {
-    "particle": "dist/index.js"
-  },
+  "bin": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
@@ -37,5 +35,6 @@
     "@types/node": "^22.5.4",
     "@ui-particle/eslint-config": "*",
     "@ui-particle/typescript-config": "*"
-  }
+  },
+  "gitHead": "1035f8f0585ab5d7b4803c6a6bf88984ad0a6d4f"
 }
