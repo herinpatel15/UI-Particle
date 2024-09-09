@@ -1,6 +1,6 @@
 {
   "name": "paramanu",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Components cli for REACTJS and NEXTJS :)",
   "exports": "./dist/index.js",
   "bin": "dist/index.js",
@@ -31,9 +31,9 @@
     "type-fest": "^4.26.0"
   },
   "devDependencies": {
-    "@types/fs-extra": "^11.0.4",
-    "@types/node": "^22.5.4",
     "@paramanu/eslint-config": "*",
-    "@paramanu/typescript-config": "*"
+    "@paramanu/typescript-config": "*",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.5.4"
   }
 }
