@@ -35,6 +35,5 @@
     "@types/node": "^22.5.4",
     "@paramanu/eslint-config": "*",
     "@paramanu/typescript-config": "*"
-  },
-  "gitHead": "ea0a5235cc3b74bd8505fc9d1a8e142ae1d21c78"
+  }
 }

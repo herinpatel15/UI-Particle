@@ -27,6 +27,5 @@
   "dependencies": {
     "react": "^18.2.0"
   },
-  "license": "ISC",
-  "gitHead": "ea0a5235cc3b74bd8505fc9d1a8e142ae1d21c78"
+  "license": "ISC"
 }
