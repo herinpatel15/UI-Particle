@@ -1,5 +1,5 @@
 {
-  "name": "@paramanu/ui",
+  "name": "paramanu-ui",
   "version": "0.0.3",
   "exports": {
     "./button": "./src/button.tsx",
@@ -27,6 +27,5 @@
   "dependencies": {
     "react": "^18.2.0"
   },
-  "license": "MIT",
-  "gitHead": "d7c833d0f15be09a41b0d16b1a44ed9551b908da"
+  "license": "MIT"
 }

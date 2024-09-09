@@ -6,8 +6,8 @@
     "dev": "turbo dev",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "cli:b": "turbo run build --filter=ui-particle",
-    "cli:d": "turbo run dev --filter=ui-particle"
+    "cli:b": "turbo run build --filter=paramanu",
+    "cli:d": "turbo run dev --filter=paramanu"
   },
   "devDependencies": {
     "prettier": "^3.2.5",

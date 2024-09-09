@@ -1,5 +1,5 @@
 {
-    "extends": "@ui-particle/typescript-config/base.json",
+    "extends": "@paramanu/typescript-config/base.json",
     "compilerOptions": {
         "outDir": "dist"
     },

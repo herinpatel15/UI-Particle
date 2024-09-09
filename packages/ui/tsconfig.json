@@ -1,5 +1,5 @@
 {
-  "extends": "@ui-particle/typescript-config/react-library.json",
+  "extends": "@paramanu/typescript-config/react-library.json",
   "compilerOptions": {
     "outDir": "dist"
   },

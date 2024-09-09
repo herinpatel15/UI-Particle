@@ -35,6 +35,5 @@
     "@paramanu/typescript-config": "*",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^22.5.4"
-  },
-  "gitHead": "d7c833d0f15be09a41b0d16b1a44ed9551b908da"
+  }
 }
