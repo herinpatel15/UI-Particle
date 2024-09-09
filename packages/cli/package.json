@@ -1,6 +1,6 @@
 {
   "name": "paramanu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Components cli for REACTJS and NEXTJS :)",
   "exports": "./dist/index.js",
   "bin": "dist/index.js",
