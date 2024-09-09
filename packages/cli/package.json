@@ -24,7 +24,7 @@
     "ui-particle"
   ],
   "author": "Herin Patel",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
     "fs-extra": "^11.2.0",
